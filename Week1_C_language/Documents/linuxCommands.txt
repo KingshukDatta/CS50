@@ -1,0 +1,14 @@
+cd - change directory "cd hello". "cd .." will go to the parent folder. 
+If we just type "cd" it will go to default folder.
+
+cp - copy a file " cp hello.c backup.c"
+
+ls - list of folder "ls" - will show folder names
+mkdir - make directory/ make folder "mkdir hello"
+mv - move a file "mv hello.c hello" - moves hello.c file to hello folder.
+"mv" can also be used to change file names . "mv hello.c old.c"
+to move a file to parent folder- "mv hello.c .." single dot(.) means "this folder"
+double dot(..) means up/ parent folder.
+
+rm - remove a file. "rm hello"
+rmdir - remove directory/ folder. "rmdir hello".
