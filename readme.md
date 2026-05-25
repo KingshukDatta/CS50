@@ -16,8 +16,8 @@ The repository is organized chronologically by week, mapping directly to the CS5
 
 - 📁 **Week1_C_language**
 - 📁 **Week 2:** Arrays 
-- 📁 **Week 3:** Algorithms _(Currently working here!)_
-- 📁 **Week 4:** Memory
+- 📁 **Week 3:** Algorithms 
+- 📁 **Week 4:** Memory _(Currently working here!)_
 - 📁 **Week 5:** Data Structures
 - 📁 **Week 6:** Python
 - 📁 **Week 7:** SQL
