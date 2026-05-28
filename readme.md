@@ -15,13 +15,13 @@ As someone deeply passionate about software development and computer science, ta
 The repository is organized chronologically by week, mapping directly to the CS50 lecture schedule.
 
 - 📁 **Week1_C_language**
-- 📁 **Week 2:** Arrays 
-- 📁 **Week 3:** Algorithms 
-- 📁 **Week 4:** Memory _(Currently working here!)_
+- 📁 **Week 2:** Arrays
+- 📁 **Week 3:** Algorithms
+- 📁 **Week 4:** Memory
 - 📁 **Week 5:** Data Structures
 - 📁 **Week 6:** Python
 - 📁 **Week 7:** SQL
-- 📁 **Week 8:** HTML, CSS, JavaScript
+- 📁 **Week 8:** HTML, CSS, JavaScript _(Currently working here!)_
 - 📁 **Week 9:** Flask
 - 📁 **Week 10:** Cybersecurity & Final Project
 
